@@ -4,11 +4,11 @@
 
 # Group 7
 
+Nabeel Khan 50419151
+
 Akhil Vaitla Janardhan 50418467
 
 Arunkumar Muthuswamy 50430427
-
-Nabeel Khan 50419151
 
 Venkata Satya Surya Sai Vineet Atyam 50419767
 
