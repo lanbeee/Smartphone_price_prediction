@@ -2,18 +2,6 @@
 
 #
 
-# Group 7
-
-Nabeel Khan 50419151
-
-Akhil Vaitla Janardhan 50418467
-
-Arunkumar Muthuswamy 50430427
-
-Venkata Satya Surya Sai Vineet Atyam 50419767
-
-Zhijie Xu 50222635
-
 # **Abstract**
 
 The objective of this study is to justify if the price of a smartphone with given features is reasonable, by utilizing raw data mined from _GSMArena.com_. To get significant features with the least amount of computational cost, different feature selection techniques are used. To achieve lowest error various regression approaches are applied and the models with lowest **MdAPE** (Median Absolute Percent Error) are compared with each other. The best feature selection algorithm and optimal regression for the given dataset are used to reach a conclusion. This activity can be applied to any sort of marketing and business to discover the best product (with minimum cost and maximum features). Future study should be done to expand on this work and develop a more sophisticated solution to the problem as well as a more precise tool for pricing estimation.
